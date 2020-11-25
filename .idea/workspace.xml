@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ddf73d3d-4e01-4d1b-8bc9-716f6539f6b3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pr17-concurrentlinkedqueue-jasato89.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jasato/pr17/ConveyorBelt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jasato/pr17/Dumper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/jasato/pr17/Garbage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="docker-desktop" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="1kmOu9YWQ9hUH70BhxxtcNAF5zj" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.jasato.pr17.Main" />
+      <module name="pr17-concurrentlinkedqueue-jasato89" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddf73d3d-4e01-4d1b-8bc9-716f6539f6b3" name="Default Changelist" comment="" />
+      <created>1606302520118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606302520118</updated>
+      <workItem from="1606302521767" duration="3841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1049" y="375" key="#com.intellij.ide.util.MemberChooser" timestamp="1606316376435">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="1049" y="375" key="#com.intellij.ide.util.MemberChooser/0.25.2560.1415@0.25.2560.1415" timestamp="1606316376435" />
+    <state width="1384" height="248" key="GridCell.Tab.0.bottom" timestamp="1606319452193">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1384" height="248" key="GridCell.Tab.0.bottom/0.25.2560.1415@0.25.2560.1415" timestamp="1606319452193" />
+    <state width="1384" height="248" key="GridCell.Tab.0.center" timestamp="1606319452192">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1384" height="248" key="GridCell.Tab.0.center/0.25.2560.1415@0.25.2560.1415" timestamp="1606319452192" />
+    <state width="1384" height="248" key="GridCell.Tab.0.left" timestamp="1606319452192">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1384" height="248" key="GridCell.Tab.0.left/0.25.2560.1415@0.25.2560.1415" timestamp="1606319452192" />
+    <state width="1384" height="248" key="GridCell.Tab.0.right" timestamp="1606319452192">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1384" height="248" key="GridCell.Tab.0.right/0.25.2560.1415@0.25.2560.1415" timestamp="1606319452192" />
+    <state x="374" y="306" key="SettingsEditor" timestamp="1606319498341">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="374" y="306" key="SettingsEditor/0.25.2560.1415@0.25.2560.1415" timestamp="1606319498341" />
+  </component>
+</project>
